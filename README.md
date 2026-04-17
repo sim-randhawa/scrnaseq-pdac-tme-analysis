@@ -25,14 +25,17 @@ R, Seurat, ggplot2, tidyverse, SingleR, clusterProfiler
 - `data/` — not tracked (see Data Source above to download)
 
 ## Results
-### Annotated Cell Types — PDAC TME
-![Annotated UMAP](results/figures/03_annotated_umap.png)
-
 ### QC Metrics Before Filtering
 ![QC Plot](results/figures/01_qc_before_filtering.png)
 
 ### Canonical TME Marker Expression
 ![Dot Plot](results/figures/03_canonical_markers_dotplot.png)
+
+### Annotated Cell Types — PDAC TME
+![Annotated UMAP](results/figures/03_annotated_umap.png)
+
+### Patient Tumor Cell Heterogeneity
+![Patient Heterogeneity](results/figures/04_patient_heterogeneity_volcanos.png)
 
 ## Author
 Simran Randhawa | MS Student, Johns Hopkins Bloomberg School of Public Health  
