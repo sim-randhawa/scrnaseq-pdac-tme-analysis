@@ -24,6 +24,16 @@ R, Seurat, ggplot2, tidyverse, SingleR, clusterProfiler
 - `results/figures/` — all generated plots and visualizations
 - `data/` — not tracked (see Data Source above to download)
 
+## Results
+### Annotated Cell Types — PDAC TME
+![Annotated UMAP](results/figures/03_annotated_umap.png)
+
+### QC Metrics Before Filtering
+![QC Plot](results/figures/01_qc_before_filtering.png)
+
+### Canonical TME Marker Expression
+![Dot Plot](results/figures/03_canonical_markers_dotplot.png)
+
 ## Author
 Simran Randhawa | MS Student, Johns Hopkins Bloomberg School of Public Health  
 [LinkedIn](https://www.linkedin.com/in/simranrandhawa20)
