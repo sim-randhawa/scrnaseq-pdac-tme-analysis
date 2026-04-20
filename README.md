@@ -62,4 +62,4 @@ patient's tumor requires further investigation.
 
 ## Author
 Simran Randhawa | MS Student, Johns Hopkins Bloomberg School of Public Health  
-[LinkedIn](https://www.linkedin.com/in/simranrandhawa20)
+[LinkedIn]www.linkedin.com/in/simranrandhawa20
